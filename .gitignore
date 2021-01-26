@@ -2,6 +2,7 @@
 /boot.furniture.showroom/target/
 /showroom/target/
 /warehouse.core/target/
+/warehouse.fallback/target/
 /.classpath
 /.settings
 /.project
@@ -18,3 +19,6 @@
 /warehouse.core/.classpath
 /warehouse.core/.settings
 /warehouse.core/.project
+/warehouse.fallback/.settings
+/warehouse.fallback/.classpath
+/warehouse.fallback/.project

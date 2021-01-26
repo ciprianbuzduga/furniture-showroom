@@ -19,6 +19,7 @@
 		<module>api.showroom</module>
 		<module>showroom</module>
 		<module>warehouse.core</module>
+		<module>warehouse.fallback</module>
 	</modules>
 	<properties>
 		<java.version>15</java.version>
